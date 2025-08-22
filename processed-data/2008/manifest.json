@@ -1,0 +1,202 @@
+{
+  "year": 2008,
+  "totalProperties": 192196,
+  "chunks": [
+    {
+      "filename": "properties-2008-000.json",
+      "count": 5000,
+      "size": 684751
+    },
+    {
+      "filename": "properties-2008-001.json",
+      "count": 5000,
+      "size": 681552
+    },
+    {
+      "filename": "properties-2008-002.json",
+      "count": 5000,
+      "size": 690793
+    },
+    {
+      "filename": "properties-2008-003.json",
+      "count": 5000,
+      "size": 692897
+    },
+    {
+      "filename": "properties-2008-004.json",
+      "count": 5000,
+      "size": 694003
+    },
+    {
+      "filename": "properties-2008-005.json",
+      "count": 5000,
+      "size": 693165
+    },
+    {
+      "filename": "properties-2008-006.json",
+      "count": 5000,
+      "size": 693121
+    },
+    {
+      "filename": "properties-2008-007.json",
+      "count": 5000,
+      "size": 693918
+    },
+    {
+      "filename": "properties-2008-008.json",
+      "count": 5000,
+      "size": 692987
+    },
+    {
+      "filename": "properties-2008-009.json",
+      "count": 5000,
+      "size": 694389
+    },
+    {
+      "filename": "properties-2008-010.json",
+      "count": 5000,
+      "size": 692821
+    },
+    {
+      "filename": "properties-2008-011.json",
+      "count": 5000,
+      "size": 686555
+    },
+    {
+      "filename": "properties-2008-012.json",
+      "count": 5000,
+      "size": 681639
+    },
+    {
+      "filename": "properties-2008-013.json",
+      "count": 5000,
+      "size": 692685
+    },
+    {
+      "filename": "properties-2008-014.json",
+      "count": 5000,
+      "size": 693946
+    },
+    {
+      "filename": "properties-2008-015.json",
+      "count": 5000,
+      "size": 693819
+    },
+    {
+      "filename": "properties-2008-016.json",
+      "count": 5000,
+      "size": 693816
+    },
+    {
+      "filename": "properties-2008-017.json",
+      "count": 5000,
+      "size": 691953
+    },
+    {
+      "filename": "properties-2008-018.json",
+      "count": 5000,
+      "size": 682472
+    },
+    {
+      "filename": "properties-2008-019.json",
+      "count": 5000,
+      "size": 690876
+    },
+    {
+      "filename": "properties-2008-020.json",
+      "count": 5000,
+      "size": 693746
+    },
+    {
+      "filename": "properties-2008-021.json",
+      "count": 5000,
+      "size": 693971
+    },
+    {
+      "filename": "properties-2008-022.json",
+      "count": 5000,
+      "size": 687909
+    },
+    {
+      "filename": "properties-2008-023.json",
+      "count": 5000,
+      "size": 684509
+    },
+    {
+      "filename": "properties-2008-024.json",
+      "count": 5000,
+      "size": 693316
+    },
+    {
+      "filename": "properties-2008-025.json",
+      "count": 5000,
+      "size": 691876
+    },
+    {
+      "filename": "properties-2008-026.json",
+      "count": 5000,
+      "size": 682528
+    },
+    {
+      "filename": "properties-2008-027.json",
+      "count": 5000,
+      "size": 692594
+    },
+    {
+      "filename": "properties-2008-028.json",
+      "count": 5000,
+      "size": 691336
+    },
+    {
+      "filename": "properties-2008-029.json",
+      "count": 5000,
+      "size": 684032
+    },
+    {
+      "filename": "properties-2008-030.json",
+      "count": 5000,
+      "size": 693959
+    },
+    {
+      "filename": "properties-2008-031.json",
+      "count": 5000,
+      "size": 684243
+    },
+    {
+      "filename": "properties-2008-032.json",
+      "count": 5000,
+      "size": 691555
+    },
+    {
+      "filename": "properties-2008-033.json",
+      "count": 5000,
+      "size": 684819
+    },
+    {
+      "filename": "properties-2008-034.json",
+      "count": 5000,
+      "size": 691568
+    },
+    {
+      "filename": "properties-2008-035.json",
+      "count": 5000,
+      "size": 687210
+    },
+    {
+      "filename": "properties-2008-036.json",
+      "count": 5000,
+      "size": 684110
+    },
+    {
+      "filename": "properties-2008-037.json",
+      "count": 5000,
+      "size": 687876
+    },
+    {
+      "filename": "properties-2008-038.json",
+      "count": 2196,
+      "size": 300507
+    }
+  ],
+  "created": "2025-08-22T11:22:53.145Z"
+}
