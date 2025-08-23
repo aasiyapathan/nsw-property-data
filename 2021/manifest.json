@@ -1,0 +1,257 @@
+{
+  "year": 2021,
+  "totalProperties": 245201,
+  "chunks": [
+    {
+      "filename": "properties-2021-000.json",
+      "count": 5000,
+      "size": 693121
+    },
+    {
+      "filename": "properties-2021-001.json",
+      "count": 5000,
+      "size": 685611
+    },
+    {
+      "filename": "properties-2021-002.json",
+      "count": 5000,
+      "size": 697257
+    },
+    {
+      "filename": "properties-2021-003.json",
+      "count": 5000,
+      "size": 701200
+    },
+    {
+      "filename": "properties-2021-004.json",
+      "count": 5000,
+      "size": 701052
+    },
+    {
+      "filename": "properties-2021-005.json",
+      "count": 5000,
+      "size": 698275
+    },
+    {
+      "filename": "properties-2021-006.json",
+      "count": 5000,
+      "size": 673026
+    },
+    {
+      "filename": "properties-2021-007.json",
+      "count": 5000,
+      "size": 698778
+    },
+    {
+      "filename": "properties-2021-008.json",
+      "count": 5000,
+      "size": 699754
+    },
+    {
+      "filename": "properties-2021-009.json",
+      "count": 5000,
+      "size": 700734
+    },
+    {
+      "filename": "properties-2021-010.json",
+      "count": 5000,
+      "size": 702482
+    },
+    {
+      "filename": "properties-2021-011.json",
+      "count": 5000,
+      "size": 701483
+    },
+    {
+      "filename": "properties-2021-012.json",
+      "count": 5000,
+      "size": 700646
+    },
+    {
+      "filename": "properties-2021-013.json",
+      "count": 5000,
+      "size": 699959
+    },
+    {
+      "filename": "properties-2021-014.json",
+      "count": 5000,
+      "size": 702385
+    },
+    {
+      "filename": "properties-2021-015.json",
+      "count": 5000,
+      "size": 694272
+    },
+    {
+      "filename": "properties-2021-016.json",
+      "count": 5000,
+      "size": 686292
+    },
+    {
+      "filename": "properties-2021-017.json",
+      "count": 5000,
+      "size": 698694
+    },
+    {
+      "filename": "properties-2021-018.json",
+      "count": 5000,
+      "size": 700407
+    },
+    {
+      "filename": "properties-2021-019.json",
+      "count": 5000,
+      "size": 702009
+    },
+    {
+      "filename": "properties-2021-020.json",
+      "count": 5000,
+      "size": 700936
+    },
+    {
+      "filename": "properties-2021-021.json",
+      "count": 5000,
+      "size": 701540
+    },
+    {
+      "filename": "properties-2021-022.json",
+      "count": 5000,
+      "size": 702027
+    },
+    {
+      "filename": "properties-2021-023.json",
+      "count": 5000,
+      "size": 698906
+    },
+    {
+      "filename": "properties-2021-024.json",
+      "count": 5000,
+      "size": 688623
+    },
+    {
+      "filename": "properties-2021-025.json",
+      "count": 5000,
+      "size": 695006
+    },
+    {
+      "filename": "properties-2021-026.json",
+      "count": 5000,
+      "size": 700158
+    },
+    {
+      "filename": "properties-2021-027.json",
+      "count": 5000,
+      "size": 701584
+    },
+    {
+      "filename": "properties-2021-028.json",
+      "count": 5000,
+      "size": 701211
+    },
+    {
+      "filename": "properties-2021-029.json",
+      "count": 5000,
+      "size": 697624
+    },
+    {
+      "filename": "properties-2021-030.json",
+      "count": 5000,
+      "size": 689446
+    },
+    {
+      "filename": "properties-2021-031.json",
+      "count": 5000,
+      "size": 694045
+    },
+    {
+      "filename": "properties-2021-032.json",
+      "count": 5000,
+      "size": 701029
+    },
+    {
+      "filename": "properties-2021-033.json",
+      "count": 5000,
+      "size": 701539
+    },
+    {
+      "filename": "properties-2021-034.json",
+      "count": 5000,
+      "size": 696329
+    },
+    {
+      "filename": "properties-2021-035.json",
+      "count": 5000,
+      "size": 689814
+    },
+    {
+      "filename": "properties-2021-036.json",
+      "count": 5000,
+      "size": 698115
+    },
+    {
+      "filename": "properties-2021-037.json",
+      "count": 5000,
+      "size": 702571
+    },
+    {
+      "filename": "properties-2021-038.json",
+      "count": 5000,
+      "size": 694623
+    },
+    {
+      "filename": "properties-2021-039.json",
+      "count": 5000,
+      "size": 691023
+    },
+    {
+      "filename": "properties-2021-040.json",
+      "count": 5000,
+      "size": 701010
+    },
+    {
+      "filename": "properties-2021-041.json",
+      "count": 5000,
+      "size": 696686
+    },
+    {
+      "filename": "properties-2021-042.json",
+      "count": 5000,
+      "size": 691015
+    },
+    {
+      "filename": "properties-2021-043.json",
+      "count": 5000,
+      "size": 701279
+    },
+    {
+      "filename": "properties-2021-044.json",
+      "count": 5000,
+      "size": 690634
+    },
+    {
+      "filename": "properties-2021-045.json",
+      "count": 5000,
+      "size": 699677
+    },
+    {
+      "filename": "properties-2021-046.json",
+      "count": 5000,
+      "size": 695002
+    },
+    {
+      "filename": "properties-2021-047.json",
+      "count": 5000,
+      "size": 695462
+    },
+    {
+      "filename": "properties-2021-048.json",
+      "count": 5000,
+      "size": 686022
+    },
+    {
+      "filename": "properties-2021-049.json",
+      "count": 201,
+      "size": 27326
+    }
+  ],
+  "created": "2025-08-23T13:38:05.338Z"
+}

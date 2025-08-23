@@ -1,0 +1,242 @@
+{
+  "year": 2015,
+  "totalProperties": 231778,
+  "chunks": [
+    {
+      "filename": "properties-2015-000.json",
+      "count": 5000,
+      "size": 691203
+    },
+    {
+      "filename": "properties-2015-001.json",
+      "count": 5000,
+      "size": 683979
+    },
+    {
+      "filename": "properties-2015-002.json",
+      "count": 5000,
+      "size": 697381
+    },
+    {
+      "filename": "properties-2015-003.json",
+      "count": 5000,
+      "size": 703988
+    },
+    {
+      "filename": "properties-2015-004.json",
+      "count": 5000,
+      "size": 699296
+    },
+    {
+      "filename": "properties-2015-005.json",
+      "count": 5000,
+      "size": 702310
+    },
+    {
+      "filename": "properties-2015-006.json",
+      "count": 5000,
+      "size": 697515
+    },
+    {
+      "filename": "properties-2015-007.json",
+      "count": 5000,
+      "size": 700426
+    },
+    {
+      "filename": "properties-2015-008.json",
+      "count": 5000,
+      "size": 700142
+    },
+    {
+      "filename": "properties-2015-009.json",
+      "count": 5000,
+      "size": 701009
+    },
+    {
+      "filename": "properties-2015-010.json",
+      "count": 5000,
+      "size": 701420
+    },
+    {
+      "filename": "properties-2015-011.json",
+      "count": 5000,
+      "size": 701713
+    },
+    {
+      "filename": "properties-2015-012.json",
+      "count": 5000,
+      "size": 700885
+    },
+    {
+      "filename": "properties-2015-013.json",
+      "count": 5000,
+      "size": 696677
+    },
+    {
+      "filename": "properties-2015-014.json",
+      "count": 5000,
+      "size": 684426
+    },
+    {
+      "filename": "properties-2015-015.json",
+      "count": 5000,
+      "size": 695795
+    },
+    {
+      "filename": "properties-2015-016.json",
+      "count": 5000,
+      "size": 699721
+    },
+    {
+      "filename": "properties-2015-017.json",
+      "count": 5000,
+      "size": 700328
+    },
+    {
+      "filename": "properties-2015-018.json",
+      "count": 5000,
+      "size": 700801
+    },
+    {
+      "filename": "properties-2015-019.json",
+      "count": 5000,
+      "size": 701241
+    },
+    {
+      "filename": "properties-2015-020.json",
+      "count": 5000,
+      "size": 702034
+    },
+    {
+      "filename": "properties-2015-021.json",
+      "count": 5000,
+      "size": 697347
+    },
+    {
+      "filename": "properties-2015-022.json",
+      "count": 5000,
+      "size": 684965
+    },
+    {
+      "filename": "properties-2015-023.json",
+      "count": 5000,
+      "size": 697978
+    },
+    {
+      "filename": "properties-2015-024.json",
+      "count": 5000,
+      "size": 700227
+    },
+    {
+      "filename": "properties-2015-025.json",
+      "count": 5000,
+      "size": 701781
+    },
+    {
+      "filename": "properties-2015-026.json",
+      "count": 5000,
+      "size": 702900
+    },
+    {
+      "filename": "properties-2015-027.json",
+      "count": 5000,
+      "size": 696631
+    },
+    {
+      "filename": "properties-2015-028.json",
+      "count": 5000,
+      "size": 686464
+    },
+    {
+      "filename": "properties-2015-029.json",
+      "count": 5000,
+      "size": 699966
+    },
+    {
+      "filename": "properties-2015-030.json",
+      "count": 5000,
+      "size": 701004
+    },
+    {
+      "filename": "properties-2015-031.json",
+      "count": 5000,
+      "size": 698024
+    },
+    {
+      "filename": "properties-2015-032.json",
+      "count": 5000,
+      "size": 687786
+    },
+    {
+      "filename": "properties-2015-033.json",
+      "count": 5000,
+      "size": 701503
+    },
+    {
+      "filename": "properties-2015-034.json",
+      "count": 5000,
+      "size": 702086
+    },
+    {
+      "filename": "properties-2015-035.json",
+      "count": 5000,
+      "size": 691858
+    },
+    {
+      "filename": "properties-2015-036.json",
+      "count": 5000,
+      "size": 694786
+    },
+    {
+      "filename": "properties-2015-037.json",
+      "count": 5000,
+      "size": 701564
+    },
+    {
+      "filename": "properties-2015-038.json",
+      "count": 5000,
+      "size": 690112
+    },
+    {
+      "filename": "properties-2015-039.json",
+      "count": 5000,
+      "size": 699474
+    },
+    {
+      "filename": "properties-2015-040.json",
+      "count": 5000,
+      "size": 697772
+    },
+    {
+      "filename": "properties-2015-041.json",
+      "count": 5000,
+      "size": 692775
+    },
+    {
+      "filename": "properties-2015-042.json",
+      "count": 5000,
+      "size": 699382
+    },
+    {
+      "filename": "properties-2015-043.json",
+      "count": 5000,
+      "size": 694726
+    },
+    {
+      "filename": "properties-2015-044.json",
+      "count": 5000,
+      "size": 692386
+    },
+    {
+      "filename": "properties-2015-045.json",
+      "count": 5000,
+      "size": 693965
+    },
+    {
+      "filename": "properties-2015-046.json",
+      "count": 1778,
+      "size": 246038
+    }
+  ],
+  "created": "2025-08-23T13:37:12.325Z"
+}

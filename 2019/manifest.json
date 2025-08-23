@@ -1,0 +1,207 @@
+{
+  "year": 2019,
+  "totalProperties": 196365,
+  "chunks": [
+    {
+      "filename": "properties-2019-000.json",
+      "count": 5000,
+      "size": 688131
+    },
+    {
+      "filename": "properties-2019-001.json",
+      "count": 5000,
+      "size": 690175
+    },
+    {
+      "filename": "properties-2019-002.json",
+      "count": 5000,
+      "size": 697260
+    },
+    {
+      "filename": "properties-2019-003.json",
+      "count": 5000,
+      "size": 698586
+    },
+    {
+      "filename": "properties-2019-004.json",
+      "count": 5000,
+      "size": 695020
+    },
+    {
+      "filename": "properties-2019-005.json",
+      "count": 5000,
+      "size": 665466
+    },
+    {
+      "filename": "properties-2019-006.json",
+      "count": 5000,
+      "size": 700024
+    },
+    {
+      "filename": "properties-2019-007.json",
+      "count": 5000,
+      "size": 699107
+    },
+    {
+      "filename": "properties-2019-008.json",
+      "count": 5000,
+      "size": 699751
+    },
+    {
+      "filename": "properties-2019-009.json",
+      "count": 5000,
+      "size": 701643
+    },
+    {
+      "filename": "properties-2019-010.json",
+      "count": 5000,
+      "size": 698823
+    },
+    {
+      "filename": "properties-2019-011.json",
+      "count": 5000,
+      "size": 699940
+    },
+    {
+      "filename": "properties-2019-012.json",
+      "count": 5000,
+      "size": 687760
+    },
+    {
+      "filename": "properties-2019-013.json",
+      "count": 5000,
+      "size": 696039
+    },
+    {
+      "filename": "properties-2019-014.json",
+      "count": 5000,
+      "size": 698817
+    },
+    {
+      "filename": "properties-2019-015.json",
+      "count": 5000,
+      "size": 700148
+    },
+    {
+      "filename": "properties-2019-016.json",
+      "count": 5000,
+      "size": 698707
+    },
+    {
+      "filename": "properties-2019-017.json",
+      "count": 5000,
+      "size": 699437
+    },
+    {
+      "filename": "properties-2019-018.json",
+      "count": 5000,
+      "size": 693993
+    },
+    {
+      "filename": "properties-2019-019.json",
+      "count": 5000,
+      "size": 686874
+    },
+    {
+      "filename": "properties-2019-020.json",
+      "count": 5000,
+      "size": 695911
+    },
+    {
+      "filename": "properties-2019-021.json",
+      "count": 5000,
+      "size": 698802
+    },
+    {
+      "filename": "properties-2019-022.json",
+      "count": 5000,
+      "size": 698237
+    },
+    {
+      "filename": "properties-2019-023.json",
+      "count": 5000,
+      "size": 691837
+    },
+    {
+      "filename": "properties-2019-024.json",
+      "count": 5000,
+      "size": 692454
+    },
+    {
+      "filename": "properties-2019-025.json",
+      "count": 5000,
+      "size": 699968
+    },
+    {
+      "filename": "properties-2019-026.json",
+      "count": 5000,
+      "size": 695004
+    },
+    {
+      "filename": "properties-2019-027.json",
+      "count": 5000,
+      "size": 689885
+    },
+    {
+      "filename": "properties-2019-028.json",
+      "count": 5000,
+      "size": 697425
+    },
+    {
+      "filename": "properties-2019-029.json",
+      "count": 5000,
+      "size": 696347
+    },
+    {
+      "filename": "properties-2019-030.json",
+      "count": 5000,
+      "size": 688390
+    },
+    {
+      "filename": "properties-2019-031.json",
+      "count": 5000,
+      "size": 698857
+    },
+    {
+      "filename": "properties-2019-032.json",
+      "count": 5000,
+      "size": 690934
+    },
+    {
+      "filename": "properties-2019-033.json",
+      "count": 5000,
+      "size": 697259
+    },
+    {
+      "filename": "properties-2019-034.json",
+      "count": 5000,
+      "size": 692808
+    },
+    {
+      "filename": "properties-2019-035.json",
+      "count": 5000,
+      "size": 694955
+    },
+    {
+      "filename": "properties-2019-036.json",
+      "count": 5000,
+      "size": 687599
+    },
+    {
+      "filename": "properties-2019-037.json",
+      "count": 5000,
+      "size": 692171
+    },
+    {
+      "filename": "properties-2019-038.json",
+      "count": 5000,
+      "size": 661630
+    },
+    {
+      "filename": "properties-2019-039.json",
+      "count": 1365,
+      "size": 190576
+    }
+  ],
+  "created": "2025-08-23T13:37:48.787Z"
+}
