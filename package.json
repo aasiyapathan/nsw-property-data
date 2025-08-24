@@ -1,15 +1,28 @@
 {
   "name": "nsw-property-api",
   "version": "1.0.0",
+  "description": "NSW Property Search API with 2M+ property records",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "process": "node process-data.js",
-    "test": "node test-api.js"
+    "dev": "node server.js",
+    "test": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
+    "adm-zip": "^0.5.16",
     "cors": "^2.8.5",
-    "adm-zip": "^0.5.10"
-  }
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "nsw",
+    "property",
+    "api",
+    "real-estate",
+    "search"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
 }
