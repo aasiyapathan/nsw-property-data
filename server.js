@@ -216,6 +216,7 @@ class NSWPropertyAPI {
         }
       }
     }
+	}
     
     // Process addresses (limited for performance)
     const matchingAddressArray = Array.from(matchingAddresses).slice(0, 10);
